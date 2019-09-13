@@ -75,18 +75,6 @@
 
 
 
-#5：
-
-#import numpy
-#def suiji():
-#    a = numpy.random.choice(range(1000))
-#    return a
-#for i in range(1000):
-#    str1 = [suiji(),suiji(),suiji(),suiji(),suiji(),suiji(),suiji(),suiji(),suiji(),suiji()]
-#    print(str1)
-
-
-
 
 #6：
 #def indexOFSmallestElement(lst):
